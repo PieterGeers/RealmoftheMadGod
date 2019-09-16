@@ -1,0 +1,217 @@
+﻿  stdafx.cpp
+  Bullet.cpp
+  Camera.cpp
+  Character.cpp
+  Core.cpp
+  Enemy.cpp
+  Game.cpp
+  Health.cpp
+  Inventory.cpp
+  Items.cpp
+  LootBags.cpp
+  main.cpp
+  Mana.cpp
+  Map.cpp
+  Matrix2x3.cpp
+  Player.cpp
+  RotMG.cpp
+  SoundEffect.cpp
+  SoundStream.cpp
+  structs.cpp
+  SVGParser.cpp
+  Compiling...
+  Texture.cpp
+  UI.cpp
+  utils.cpp
+  Vector2f.cpp
+  Vegetation.cpp
+  Xp.cpp
+     Creating library G:\_Howest DAE\ProgrammingProjects\RealmOfTheMadGodProject\PieterGeers_RotMG\Release\PieterGeers_RotMG.lib and object G:\_Howest DAE\ProgrammingProjects\RealmOfTheMadGodProject\PieterGeers_RotMG\Release\PieterGeers_RotMG.exp
+  Generating code
+  All 1679 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PieterGeers_RotMG.vcxproj -> G:\_Howest DAE\ProgrammingProjects\RealmOfTheMadGodProject\PieterGeers_RotMG\Release\PieterGeers_RotMG.exe
+  G:\_Howest DAE\ProgrammingProjects\RealmOfTheMadGodProject\PieterGeers_RotMG\3rdParty\SDL2\lib\x86\SDL2.dll
+  1 File(s) copied
+  G:\_Howest DAE\ProgrammingProjects\RealmOfTheMadGodProject\PieterGeers_RotMG\3rdParty\SDL2_image\lib\x86\libjpeg-9.dll
+  1 File(s) copied
+  G:\_Howest DAE\ProgrammingProjects\RealmOfTheMadGodProject\PieterGeers_RotMG\3rdParty\SDL2_image\lib\x86\libpng16-16.dll
+  1 File(s) copied
+  G:\_Howest DAE\ProgrammingProjects\RealmOfTheMadGodProject\PieterGeers_RotMG\3rdParty\SDL2_image\lib\x86\libtiff-5.dll
+  1 File(s) copied
+  G:\_Howest DAE\ProgrammingProjects\RealmOfTheMadGodProject\PieterGeers_RotMG\3rdParty\SDL2_image\lib\x86\libwebp-7.dll
+  1 File(s) copied
+  G:\_Howest DAE\ProgrammingProjects\RealmOfTheMadGodProject\PieterGeers_RotMG\3rdParty\SDL2_image\lib\x86\SDL2_image.dll
+  1 File(s) copied
+  G:\_Howest DAE\ProgrammingProjects\RealmOfTheMadGodProject\PieterGeers_RotMG\3rdParty\SDL2_image\lib\x86\zlib1.dll
+  1 File(s) copied
+  G:\_Howest DAE\ProgrammingProjects\RealmOfTheMadGodProject\PieterGeers_RotMG\3rdParty\SDL2_ttf\lib\x86\libfreetype-6.dll
+  1 File(s) copied
+  G:\_Howest DAE\ProgrammingProjects\RealmOfTheMadGodProject\PieterGeers_RotMG\3rdParty\SDL2_ttf\lib\x86\SDL2_ttf.dll
+  1 File(s) copied
+  G:\_Howest DAE\ProgrammingProjects\RealmOfTheMadGodProject\PieterGeers_RotMG\3rdParty\SDL2_mixer-2.0.4\lib\x86\libFLAC-8.dll
+  1 File(s) copied
+  G:\_Howest DAE\ProgrammingProjects\RealmOfTheMadGodProject\PieterGeers_RotMG\3rdParty\SDL2_mixer-2.0.4\lib\x86\libmodplug-1.dll
+  1 File(s) copied
+  G:\_Howest DAE\ProgrammingProjects\RealmOfTheMadGodProject\PieterGeers_RotMG\3rdParty\SDL2_mixer-2.0.4\lib\x86\libmpg123-0.dll
+  1 File(s) copied
+  G:\_Howest DAE\ProgrammingProjects\RealmOfTheMadGodProject\PieterGeers_RotMG\3rdParty\SDL2_mixer-2.0.4\lib\x86\libogg-0.dll
+  1 File(s) copied
+  G:\_Howest DAE\ProgrammingProjects\RealmOfTheMadGodProject\PieterGeers_RotMG\3rdParty\SDL2_mixer-2.0.4\lib\x86\libopus-0.dll
+  1 File(s) copied
+  G:\_Howest DAE\ProgrammingProjects\RealmOfTheMadGodProject\PieterGeers_RotMG\3rdParty\SDL2_mixer-2.0.4\lib\x86\libopusfile-0.dll
+  1 File(s) copied
+  G:\_Howest DAE\ProgrammingProjects\RealmOfTheMadGodProject\PieterGeers_RotMG\3rdParty\SDL2_mixer-2.0.4\lib\x86\libvorbis-0.dll
+  1 File(s) copied
+  G:\_Howest DAE\ProgrammingProjects\RealmOfTheMadGodProject\PieterGeers_RotMG\3rdParty\SDL2_mixer-2.0.4\lib\x86\libvorbisfile-3.dll
+  1 File(s) copied
+  G:\_Howest DAE\ProgrammingProjects\RealmOfTheMadGodProject\PieterGeers_RotMG\3rdParty\SDL2_mixer-2.0.4\lib\x86\SDL2_mixer.dll
+  1 File(s) copied
+
+Project Performance Summary:
+    14801 ms  G:\_Howest DAE\ProgrammingProjects\RealmOfTheMadGodProject\PieterGeers_RotMG\PieterGeers_RotMG.vcxproj   1 calls
+              14801 ms  Rebuild                                    1 calls
+
+Target Performance Summary:
+        0 ms  SelectClCompile                            1 calls
+        0 ms  ComputeManifestInputsTargets               1 calls
+        0 ms  ComputeLinkInputsFromProject               1 calls
+        0 ms  ComputeManifestGeneratedLinkerInputs       1 calls
+        0 ms  ComputeRCGeneratedLinkInputs               1 calls
+        0 ms  ComputeRCOutputs                           1 calls
+        0 ms  BeforeLink                                 1 calls
+        0 ms  ComputeLegacyManifestEmbedding             1 calls
+        0 ms  BuildLinkTraverse                          1 calls
+        0 ms  BuildCompile                               1 calls
+        0 ms  _BuildCompileAction                        1 calls
+        0 ms  AfterBuildCompileEvent                     1 calls
+        0 ms  _ResourceCompile                           1 calls
+        0 ms  AfterResourceCompile                       1 calls
+        0 ms  BeforeResourceCompile                      1 calls
+        0 ms  _ClCompile                                 1 calls
+        0 ms  AfterClCompile                             1 calls
+        0 ms  AfterRebuild                               1 calls
+        0 ms  SelectCustomBuild                          1 calls
+        0 ms  ComputeReferenceCLInput                    1 calls
+        0 ms  BeforeClCompile                            1 calls
+        0 ms  BuildCompileTraverse                       1 calls
+        0 ms  CreateCustomManifestResourceNames          1 calls
+        0 ms  PrepareResourceNames                       1 calls
+        0 ms  PreLinkEvent                               1 calls
+        0 ms  ComputeLinkSwitches                        1 calls
+        0 ms  Build                                      1 calls
+        0 ms  AfterBuild                                 1 calls
+        0 ms  BuildLink                                  1 calls
+        0 ms  _BuildLinkAction                           1 calls
+        0 ms  PrepareForRun                              1 calls
+        0 ms  _CheckForCompileOutputs                    1 calls
+        0 ms  _CopySourceItemsToOutputDirectory          1 calls
+        0 ms  GetCopyToOutputDirectoryItems              1 calls
+        0 ms  _Deploy                                    1 calls
+        0 ms  _Appverifier                               1 calls
+        0 ms  BuildGenerateSources                       1 calls
+        0 ms  CreateSatelliteAssemblies                  1 calls
+        0 ms  _BscMake                                   1 calls
+        0 ms  MakeDirsForBscMake                         1 calls
+        0 ms  ComputeCLCompileGeneratedSbrFiles          1 calls
+        0 ms  _XdcMake                                   1 calls
+        0 ms  ComputeCLCompileGeneratedXDCFiles          1 calls
+        0 ms  ResolvedXDCMake                            1 calls
+        0 ms  _Manifest                                  1 calls
+        0 ms  _ALink                                     1 calls
+        0 ms  _Link                                      1 calls
+        0 ms  AfterLink                                  1 calls
+        0 ms  _GenerateSatelliteAssemblyInputs           1 calls
+        0 ms  _BuildGenerateSourcesAction                1 calls
+        0 ms  Rebuild                                    1 calls
+        0 ms  AfterBuildGenerateSources                  1 calls
+        0 ms  Clean                                      1 calls
+        0 ms  _SplitProjectReferencesByFileExistence     1 calls
+        0 ms  SetCABuildNativeEnvironmentVariables       1 calls
+        0 ms  _CheckWindowsSDKInstalled                  1 calls
+        0 ms  PrepareProjectReferences                   1 calls
+        0 ms  CleanReferencedProjects                    1 calls
+        0 ms  CleanPublishFolder                         1 calls
+        0 ms  GetResolvedWinMD                           1 calls
+        0 ms  AfterClean                                 1 calls
+        0 ms  GetReferenceAssemblyPaths                  1 calls
+        0 ms  AfterBuildGenerateSourcesEvent             1 calls
+        0 ms  BeforeCppClean                             1 calls
+        0 ms  GetFrameworkPaths                          1 calls
+        0 ms  AfterCppClean                              1 calls
+        0 ms  PGInstrumentedClean                        1 calls
+        0 ms  BeforeResolveReferences                    1 calls
+        0 ms  _PrepareForReferenceResolution             1 calls
+        0 ms  ExpandSDKReferences                        1 calls
+        0 ms  ResolveAssemblyReferences                  1 calls
+        0 ms  CppClean                                   1 calls
+        0 ms  ResolveReferences                          1 calls
+        0 ms  _PrepareForRebuild                         1 calls
+        0 ms  MakeDirsForMidl                            1 calls
+        0 ms  AfterResolveReferences                     1 calls
+        0 ms  AfterMidl                                  1 calls
+        0 ms  _Xsd                                       1 calls
+        0 ms  BeforeRebuild                              1 calls
+        0 ms  SetTelemetryEnvironmentVariables           1 calls
+        0 ms  CopyFileToFolders                          1 calls
+        0 ms  _SelectedFiles                             1 calls
+        0 ms  PreBuildEvent                              1 calls
+        0 ms  BeforeBuildGenerateSources                 1 calls
+        0 ms  BuildGenerateSourcesTraverse               1 calls
+        0 ms  BeforeClean                                1 calls
+        0 ms  _Midl                                      1 calls
+        0 ms  ComputeMIDLGeneratedCompileInputs          1 calls
+        1 ms  _PrepareForBuild                           1 calls
+        1 ms  FixupCLCompileOptions                      1 calls
+        1 ms  SetBuildDefaultEnvironmentVariables        1 calls
+        1 ms  MakeDirsForResourceCompile                 1 calls
+        1 ms  ComputeCLInputPDBName                      1 calls
+        1 ms  ComputeCLGeneratedLinkInputs               1 calls
+        1 ms  MakeDirsForXdcMake                         1 calls
+        1 ms  CopyFilesToOutputDirectory                 1 calls
+        1 ms  SplitResourcesByCulture                    1 calls
+        1 ms  MakeDirsForLink                            1 calls
+        1 ms  PlatformPrepareForBuild                    1 calls
+        1 ms  ResolveProjectReferences                   1 calls
+        1 ms  MakeDirsForCl                              1 calls
+        1 ms  ComputeCLOutputs                           1 calls
+        1 ms  ComputeCustomBuildOutput                   1 calls
+        1 ms  _GetProjectReferenceTargetFrameworkProperties   1 calls
+        1 ms  GetCopyToOutputDirectoryXamlAppDefs        1 calls
+        1 ms  ResolveSDKReferences                       1 calls
+        1 ms  AssignTargetPaths                          1 calls
+        1 ms  AssignProjectConfiguration                 1 calls
+        1 ms  DoLinkOutputFilesMatch                     1 calls
+        2 ms  RegisterOutput                             1 calls
+        2 ms  _CheckForInvalidConfigurationAndPlatform   1 calls
+        3 ms  CoreClean                                  1 calls
+        5 ms  WarnCompileDuplicatedFilename              1 calls
+        7 ms  PrepareForBuild                            1 calls
+       53 ms  ComputeLinkImportLibraryOutputsForClean    1 calls
+       96 ms  FinalizeBuildStatus                        1 calls
+       99 ms  InitializeBuildStatus                      1 calls
+      174 ms  _PrepareForClean                           1 calls
+      551 ms  CoreCppClean                               1 calls
+     2001 ms  PostBuildEvent                             1 calls
+     3972 ms  Link                                       1 calls
+     7813 ms  ClCompile                                  1 calls
+
+Task Performance Summary:
+        0 ms  Message                                    3 calls
+        0 ms  GetOutOfDateItems                          1 calls
+        0 ms  RemoveDuplicates                           1 calls
+        0 ms  FindUnderPath                              2 calls
+        0 ms  AssignProjectConfiguration                 1 calls
+        0 ms  SetEnv                                     8 calls
+        0 ms  ReadLinesFromFile                          2 calls
+        1 ms  AssignCulture                              1 calls
+        1 ms  MSBuild                                    1 calls
+        1 ms  AssignTargetPath                           6 calls
+        4 ms  MakeDir                                   11 calls
+      121 ms  Touch                                      2 calls
+      144 ms  WriteLinesToFile                           4 calls
+      193 ms  Delete                                     6 calls
+      516 ms  CppClean                                   1 calls
+     2001 ms  Exec                                       1 calls
+     3967 ms  Link                                       1 calls
+     7809 ms  CL                                         2 calls
