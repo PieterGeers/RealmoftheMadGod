@@ -99,7 +99,7 @@ void RotMG::ProcessKeyDownEvent(const SDL_KeyboardEvent& e)
 	{
 		m_pCharacter->ProcessKeyDownEvent(e, m_pUI->GetInventory());
 	}
-	if (e.keysym.sym == SDLK_ESCAPE && m_pUI->IsGameInitialized())
+	if (e.keysym.sym == SDLK_ESCAPE && m_pUI->IsGameInitialized() && !m_pCharacter->GetIsDeath())
 	{
 		m_pUI->SetGamePause(!m_pUI->IsGamePause());
 	}
